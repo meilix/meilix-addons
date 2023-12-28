@@ -1,4 +1,6 @@
-These notebooks contain a series of tutorials introducing each of the PSLab's six core instruments in turn:
+# PSLab Tutorial Notebooks
+
+This directory contains a series of tutorials introducing each of the PSLab's six core instruments in turn:
 
 - Multimeter
 - Power Supply
