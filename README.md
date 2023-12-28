@@ -18,7 +18,7 @@ Recommended way to install the `pslab` package:
 
 - Create a virtual environment called 'pslab': Run `python -m venv pslab` on the command line.
 - Activate the virtual environment.
-  - On Linux, run `./pslab/bin/activate`.
+  - On Linux, run `source ./pslab/bin/activate`.
   - On Windows, run `.\pslab\Scripts\activate.bat`
 - Install the dependencies: Run `pip install pslab notebook matplotlib`
 
