@@ -4,13 +4,7 @@ This repository (https://github.com/bessman/pslab-notebooks) contains a series o
 
 ## Requirements
 
-The following software is required to run the notebooks:
-
-- Python 3.8 or later
-- The following python packages:
-  - pslab
-  - notebook
-  - matplotlib
+Python 3.8+ with pip.
 
 ## Installing `pslab`
 
@@ -55,3 +49,11 @@ If you are using Linux and get an error message saying you do not have permissio
 Alternativelly, you can skip the udev rule and instead become a member of the group to which the /dev/tty* device files belong to. On Debian based distros this group is called 'dialout', on Arch based distros it is called 'uucp'. It may be called something else on other distros. Again, consult your distro's documentation for how to become a member of a group.
 
 Once this installation is complete, launch Jupyter Notebooks by running `jupyter notebook`.
+
+## Get the Tutorial Notebooks
+
+If you are familiar with `git` you can clone this repo: `git clone https://github.com/bessman/pslab-notebooks`.
+
+Otherwise you can go into the 'Getting Started' directory and download the notebooks manually.
+
+Then, navigate to the location where you downloaded them with the Jupyter Notebook file browser and run them!
