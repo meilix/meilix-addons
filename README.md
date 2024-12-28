@@ -1,8 +1,21 @@
 # PSLab Notebooks
 
-This repository (https://github.com/bessman/pslab-notebooks) contains a series
-of tutorials and exercises for the [Pocket Science Lab](https://pslab.io)
-(PSLab) [Python library](https://github.com/fossasia/pslab-python).
+This repository (<https://github.com/fossasia/pslab-notebooks>) contains a series
+of tutorials and exercises for the [Pocket Science Lab](<https://pslab.io>)
+(PSLab) [Python library](<https://github.com/fossasia/pslab-python>).
+
+## Downloading the notebooks
+
+Download the tutorial notebooks by either
+
+- `git clone`ing this repository (<https://github.com/fossasia/pslab-notebooks>)
+- `cd` into it
+
+or
+
+- Download this repository as a ZIP archive by clicking the green
+  '<> Code'-button in the Github web interface, and then select "Download ZIP"
+- Unpack the ZIP archive and `cd` into it
 
 ## Requirements
 
@@ -62,19 +75,6 @@ usermod -aG dialout username
 ```
 
 You need to log out and log back in for the group change to take effect.
-
-## Downloading the notebooks
-
-Download the tutorial notebooks by either
-
-- `git clone`ing this repository
-- `cd` into it
-
-or
-
-- Download this repository as a ZIP archive by clicking the green
-  '<> Code'-button in the Github web interface, and then select "Download ZIP"
-- Unpack the ZIP archive and `cd` into it
 
 ## Installing `pslab`
 
