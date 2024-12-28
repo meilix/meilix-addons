@@ -1,5 +1,7 @@
 # PSLab Tutorial Notebooks
 
+Please read the top-level README first.
+
 This directory contains a series of tutorials introducing each of the PSLab's six core instruments in turn:
 
 - Multimeter
