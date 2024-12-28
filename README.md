@@ -9,8 +9,9 @@ of tutorials and exercises for the [Pocket Science Lab](https://pslab.io)
 The following software is required to run the notebooks:
 
 - Python 3.9 or later
-- On some Linux distributions (notably Debian, Ubuntu) the package
-  `python3-venv` is required
+- On some Linux distributions (notably Debian, Ubuntu) the packages
+  `python3-pip` and `python3-venv` must be installed from the distribution's
+  repositories.
 
 ### Additional Linux-specific requirements
 
@@ -59,6 +60,8 @@ group which owns the serial port. On most distros, this can be done with
 ```bash
 usermod -aG dialout username
 ```
+
+You need to log out and log back in for the group change to take effect.
 
 ## Downloading the notebooks
 
