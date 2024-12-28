@@ -11,13 +11,13 @@ The following software is required to run the notebooks:
 - Python 3.9 or later
 - On some Linux distributions (notably Debian, Ubuntu) the packages
   `python3-pip` and `python3-venv` must be installed from the distribution's
-  repositories.
+  repositories
 
 ### Additional Linux-specific requirements
 
 Windows and MacOS users can skip this section.
 
-Your user most likely do not have permission to access serial ports, which
+Your user most likely does not have permission to access serial ports, which
 means you can't talk to the PSLab yet. You need to become a member of the
 group which owns the serial port device file. The device file is typically
 called '/dev/ttyUSB0', and the owner group is usually either 'dialout' (on
