@@ -80,8 +80,8 @@ You need to log out and log back in for the group change to take effect.
 
 - Create a Python venv (virtual environment) with `python3 -m venv venv`
 - Activate the virtual environment.
-  - On Linux or MacOS, run `source ./pslab/bin/activate`
-  - On Windows, run `./pslab/Scripts/activate.bat`
+  - On Linux or MacOS, run `source ./venv/bin/activate`
+  - On Windows, run `./venv/Scripts/activate.bat`
 - Install the dependencies: Run `pip install -r requirements.txt`
 
 ## Verifying the installation
