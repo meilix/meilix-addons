@@ -37,6 +37,10 @@ or
 
 - A computer
 - with Python3.9+ with pip and venv
+  - pip and venv are typically installed along with Python. However, some Linux
+    distros (notably Debian and Ubuntu) package them separately. In this case,
+    they must be installed from the distro's package repos with e.g.
+    `apt install python3-pip python3-venv`.
 
 ### Additional Linux-specific requirements
 
@@ -134,5 +138,3 @@ Once this installation is complete, launch Jupyter Notebooks by running
 `jupyter notebook`. A web interface should open in your default browser,
 showing the current directory. You can open notebooks (.ipynb-files) by
 clicking on them.
-
-
