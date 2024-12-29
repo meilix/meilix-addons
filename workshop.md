@@ -35,6 +35,8 @@ or
 
 ## Requirements
 
+To do the workshop, you will need:
+
 - A computer
 - with Python3.9+ with pip and venv
   - pip and venv are typically installed along with Python. However, some Linux
